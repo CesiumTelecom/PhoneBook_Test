@@ -1,10 +1,26 @@
-﻿<YealinkIPPhoneDirectory>
+<YealinkIPPhoneDirectory>
 
 	<DirectoryEntry>
-		<Name>Test3</Name>
+		<Name>TestExtPhone</Name>
 		<Telephone>228</Telephone>
 		<Telephone>5145628773</Telephone>
-	</DirectoryEntry>	
+	</DirectoryEntry>
+	
+	<DirectoryEntry>
+		<Name>TestExt</Name>
+		<Telephone>228</Telephone>
+	</DirectoryEntry>
+	
+	<DirectoryEntry>
+		<Name>TestPhone</Name>
+		<Telephone>5145628773</Telephone>
+	</DirectoryEntry>
+	
+	<DirectoryEntry>
+		<Name>TestNoExtPhone</Name>
+		<Telephone></Telephone>
+		<Telephone>5145628773</Telephone>
+	</DirectoryEntry>
 
 </YealinkIPPhoneDirectory>
 
